@@ -4,15 +4,18 @@
 
 #
 ##### Instructions pour utiliser l'application
-Télécharger l'archive "france\_visu\_zairi.zip", et extraire le tout.
-Lancer Processing et ouvrir le fichier "tp1.pde".
-Cliquez sur play.
+Téléchargez l'archive "TP\_visualisation\_Zairi\_Ziad.zip", et extraire le tout.
+https://www.dropbox.com/s/gw8gncba2dtoymu/TP_visualisation_Zairi_Ziad.tar.gz?dl=0
+
+Lancez Processing et ouvrir le fichier "tp1.pde".
+Cliquez sur play. (Il se peut que le chargement prenne du temps).
 
 ##### Représentations visuelles
-Les données représentées sont la population et la densité des villes.
+Les données représentées sont la position, la population et la densité des villes.
 
-* La population est représentée par la taille des cercles, plus un cercle est gros plus la population de la ville associée est grande.
-* La densité est représentée par une couleur allant du bleu pour les villes les moins denses au rouge pour les plus denses (en passant par le violet, donc).
+* La position de chaque ville est représentée par un cercle sur la fenêtre, cela permet de se faire une idée sur sa position par rapport aux autres villes françaises. 
+* La population est représentée par la taille des cercles, plus un cercle est gros plus la population de la ville associée est grande. C'est une représentation assez classique de la donnée de population, et cela permet notamment de faire ressortir les plus grandes villes françaises.
+* La densité est représentée par une couleur allant du bleu pour les villes les moins denses au rouge pour les plus denses (en passant par le violet, donc). En effet, une trop forte densité de population peut-être vue comme un danger et dans l'esprit commun le rouge est associé au danger, tandis que le bleu a plutôt une signification positive.
 
 ##### Interactions
 
@@ -29,3 +32,8 @@ http://colorbrewer2.org/
 
 https://processing.org/reference/lerpColor_.html
 
+https://processing.org/examples/
+
+https://processing.org/tutorials/
+
+http://fr.wikipedia.org/wiki/Processing
