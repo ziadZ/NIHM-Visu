@@ -5,7 +5,7 @@
 #
 ##### Instructions pour utiliser l'application
 Téléchargez l'archive "TP\_visualisation\_Zairi\_Ziad.zip", et extraire le tout.
-https://www.dropbox.com/s/gw8gncba2dtoymu/TP_visualisation_Zairi_Ziad.tar.gz?dl=0
+https://www.dropbox.com/s/gm5rcgdyzqwye2e/TP_visualisation_Zairi_Ziad.zip?dl=0
 
 Lancez Processing et ouvrir le fichier "tp1.pde".
 Cliquez sur play. (Il se peut que le chargement prenne du temps).
